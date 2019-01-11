@@ -1,4 +1,4 @@
-# C++17 High Performance
+# 高性能计算 C++17 High Performance
 This is the code repository for [C++17 High Performance](https://www.packtpub.com/application-development/c17-high-performance?utm_source=github&utm_medium=repository&utm_campaign=9781787120952), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 C++ is an easy language and can be used to write complex applications and performance-critical code. It has evolved and changed over the last few years. This book will guide you through optimizing the performance of your C++ apps by allowing them to consume fewer resources on the device they’re running on.
